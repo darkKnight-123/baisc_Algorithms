@@ -13,4 +13,4 @@ def euclid_gcd(m,n): #function definition
     return m 
 #algorithm end
 
-print("The gcd for the numbers 60 and 12 is:",euclid_gcd(60,12))
+print("The Greatest Common Divisor for the numbers 60 and 12 is:",euclid_gcd(60,12))
